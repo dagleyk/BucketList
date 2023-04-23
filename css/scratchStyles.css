@@ -1,0 +1,124 @@
+figcaption{
+    text-align: center;
+    font-style: italic;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+ul{
+    font-size: 20px;
+    text-align: left;
+    
+    list-style-position: inside;
+}
+
+ol{
+    font-size: 25px;
+    list-style-position: inside;
+    margin: 0 auto;
+    display: table;
+    text-align: left;
+}
+
+.header{
+    height: 100px;
+    background-color: cadetblue;
+    color: white;
+    line-height: 100px;
+}
+
+nav{
+    background-color:rgb(241, 188, 170);
+    padding: 10px;
+    overflow: hidden;
+}
+
+a{
+    color: black;
+}
+
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    position: sticky;
+}
+
+nav a:hover{
+    background-color:rgb(249, 236, 221);
+}
+
+.mainbody{
+    background-color: bisque;
+}
+
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 100%; 
+    display:inline-block; 
+    padding:0px; 
+    margin:0px;
+}
+
+.top5places{
+    background-color:mistyrose;
+    margin: 0px;
+    padding: 0px;
+    border-top: 5px solid black;
+}
+
+.colorfont{
+    color:coral;
+}
+
+.footer{
+    height: 25px;
+    background-color: cadetblue;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    padding-top: 15px;
+}
+
+.common{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.video{
+    background-color: bisque;
+    margin: 0px;
+    padding: 0px;
+    border-top: 5px solid black;
+}
+
+.tableau{
+    background-color: mistyrose;
+    border-top: 5px solid black;
+    
+}
+
+.tableau2{
+    background-color: mistyrose;
+}
